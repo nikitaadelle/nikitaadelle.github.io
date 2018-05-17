@@ -5,6 +5,7 @@ body {
   font-weight:300;
   margin:15px;
   opacity: 1;
+  padding:20px;
   transition: 1s opacity;
   background-size:auto 105%;
   background-position:center bottom;
@@ -15,24 +16,6 @@ body {
 body.fade-out {
     opacity: 0;
     transition: none;
-}
-
-a {
-  color: black;
-  font-family: Helvetica;
-  background-size:auto auto;
-  background-attachment: fixed;
-  font-style:normal;
-  text-transform:none;
-}
-
-a:hover {
-  color: black;
-  font-family: Helvetica;
-  background-size:auto auto;
-  background-attachment: fixed;
-  font-style:normal;
-  text-decoration:underline;
 }
 
 #titlez a:hover {
