@@ -6,12 +6,10 @@ body {
   margin:15px;
   opacity: 1;
   transition: 1s opacity;
-  background:url(https://cdn.pixabay.com/photo/2016/08/20/04/43/pineapple-1606852_960_720.jpg);
   background-size:auto 105%;
   background-position:center bottom;
   background-attachment: fixed;
   background-repeat:no-repeat;
-  background-color:#e8dedd;
 }
 
 body.fade-out {
